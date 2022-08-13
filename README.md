@@ -8,5 +8,8 @@
 
 > + Q: 如何填写？
 > + A: 下载MainSheet.xlsx与Symbol.xlsx，参考Symbol.xlsx中的图例完成MainSheet。
+
+> + Q: 各个版本有什么区别？
+> + A: MainSheet为完整版，BDSM-Basic只包含了道具与行为两个模块。
   
 ## 贡献者
