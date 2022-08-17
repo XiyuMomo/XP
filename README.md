@@ -1,4 +1,6 @@
 # XP统计总表
+## 注意
+目前仅有BDSM-Basic是可用的。
 ## Q&A
 > + Q: 这个表统计哪些XP？
 > + A: 统计现实中可行的，有一定受众的XP。
@@ -12,6 +14,10 @@
 > + Q: 各个版本有什么区别？
 > + A: MainSheet为完整版，BDSM-Basic只包含了道具与行为两个模块。
   
+## 使用的参考
+> + [萌娘百科](https://zh.moegirl.org.cn)
+> + [H萌娘](https://www.hmoegirl.com)
+
 ## 主要贡献者
 > + 汐雨
 
@@ -22,4 +28,4 @@
 >
 
 ## 捐助
-https://github.com/XiyuMomo/PhotosForSale
+> https://github.com/XiyuMomo/PhotosForSale
