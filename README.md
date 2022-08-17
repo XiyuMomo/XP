@@ -9,7 +9,7 @@
 > + A: 可以用于对不熟悉的人作自我介绍，或者与同好增进了解，亦可以基于此建立数据库，用于匹配性趣相似的人。
 
 > + Q: 如何填写？
-> + A: 下载MainSheet.xlsx与Symbol.xlsx，参考Symbol.xlsx中的图例完成MainSheet。
+> + A: 下载MainSheet.xlsx或BDSM-Basic.xlsx，利用表格填充工具完成。
 
 > + Q: 各个版本有什么区别？
 > + A: MainSheet为完整版，BDSM-Basic只包含了道具与行为两个模块。
